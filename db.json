@@ -1,0 +1,139 @@
+{
+  "video": [
+    {
+      "id": "3",
+      "caption": "Kaithi",
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/b4a1ba87123937.5daeb6af5f27c.jpg",
+      "embededLink": "https://www.youtube.com/embed/g79CvhHaj5I"
+    },
+    {
+      "id": "4",
+      "caption": "Vikram",
+      "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/07/10/273e787ba809e725948334340c658e68_original.jpg",
+      "embededLink": "https://www.youtube.com/embed/OKBMCL-frPU"
+    },
+    {
+      "id": "7",
+      "caption": "Jailer",
+      "url": "https://pbs.twimg.com/media/FavdWZjXgAEgY1T?format=jpg&name=4096x4096",
+      "embededLink": "https://www.youtube.com/embed/1F3hm6MfR1k"
+    },
+    {
+      "id": "8",
+      "caption": "Animal",
+      "url": "https://images.news9live.com/wp-content/uploads/2023/09/ranbir-kapoor-animal.webp?w=1200&enlarge=true",
+      "embededLink": "https://www.youtube.com/embed/Dydmpfo68DA"
+    },
+    {
+      "id": "9",
+      "caption": "Tiger 1",
+      "url": "https://i.ndtvimg.com/mt/movies/2012-06/salman-katrina-ektha-tiger1.jpg",
+      "embededLink": "https://www.youtube.com/embed/SmUl0l8qBXw"
+    },
+    {
+      "id": "10",
+      "caption": "Tiger 2",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTdlNjE5MGYtODliNy00NGI4LWExMDItYzZmMzdmM2E1ZjRkXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+      "embededLink": "https://www.youtube.com/embed/ePO5M5DE01I"
+    },
+    {
+      "id": "11",
+      "caption": "War",
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a1d95586386965.5d97886ac225d.jpg",
+      "embededLink": "https://www.youtube.com/embed/tQ0mzXRk-oM"
+    },
+    {
+      "id": "12",
+      "caption": "Pathaan",
+      "url": "https://www.koimoi.com/wp-content/new-galleries/2022/12/pathan-cast-fee-revealed-deepika-padukone-shah-rukh-khan-john-abraham-takes-home-massive-paycheck-001.jpg",
+      "embededLink": "https://www.youtube.com/embed/vqu4z34wENw"
+    },
+    {
+      "id": "13",
+      "caption": "Tiger 3",
+      "url": "https://www.hindustantimes.com/ht-img/img/2023/09/02/1600x900/tiger_3_1693633096774_1693633097167.jpg",
+      "embededLink": "https://www.youtube.com/embed/vEjTUDjjU6A"
+    }
+  ],
+  "category": [
+    {
+      "id": "2",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "Jailer",
+          "url": "https://pbs.twimg.com/media/FavdWZjXgAEgY1T?format=jpg&name=4096x4096",
+          "embededLink": "https://www.youtube.com/embed/1F3hm6MfR1k"
+        }
+      ],
+      "name": "Hindi Movies"
+    },
+    {
+      "id": "3 ",
+      "allVideos": [],
+      "name": "Tamil"
+    },
+    {
+      "id": "1",
+      "allVideos": [
+        {
+          "id": "10",
+          "caption": "Tiger 2",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTdlNjE5MGYtODliNy00NGI4LWExMDItYzZmMzdmM2E1ZjRkXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+          "embededLink": "https://www.youtube.com/embed/ePO5M5DE01I"
+        }
+      ],
+      "name": "mallu"
+    },
+    {
+      "id": "5",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "KGF Chapter 2",
+          "url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/567708143997813.6284a8db8a7b2.png",
+          "embededLink": "https://www.youtube.com/embed/JKa05nyUmuQ"
+        },
+        {
+          "id": "2",
+          "caption": "KGF Chapter 2",
+          "url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/567708143997813.6284a8db8a7b2.png",
+          "embededLink": "https://www.youtube.com/embed/JKa05nyUmuQ"
+        }
+      ],
+      "name": "english"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Vikram",
+      "embededLink": "https://www.youtube.com/embed/OKBMCL-frPU",
+      "timeStamp": "12/2023, 10:30:28 AM",
+      "id": 2
+    },
+    {
+      "caption": "War",
+      "embededLink": "https://www.youtube.com/embed/tQ0mzXRk-oM",
+      "timeStamp": "12/2023, 10:52:04 AM",
+      "id": 3
+    },
+    {
+      "caption": "Pathaan",
+      "embededLink": "https://www.youtube.com/embed/vqu4z34wENw",
+      "timeStamp": "12/2023, 10:52:07 AM",
+      "id": 4
+    },
+    {
+      "caption": "Kaithi",
+      "embededLink": "https://www.youtube.com/embed/g79CvhHaj5I",
+      "timeStamp": "12/2023, 10:52:11 AM",
+      "id": 5
+    },
+    {
+      "caption": "KGF Chapter 2",
+      "embededLink": "https://www.youtube.com/embed/JKa05nyUmuQ",
+      "timeStamp": "12/2023, 11:26:59 AM",
+      "id": 6
+    }
+  ]
+}
